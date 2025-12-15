@@ -1,0 +1,7 @@
+*.mp3
+privado/
+db.sql
+password.txt
+*.zip
+*.rar
+.7z
